@@ -1,4 +1,5 @@
 Name: Peter Osato Edosa
 DevOsatoOps
-Project description: Stage 0 DevOps task: Deploying NGINX on AWS
-Server IP/domain:
+Project description: Thia is the HNG Stage 0 DevOps task: Deploying NGINX webserver.
+Server IP/domain: http://3.15.37.222/
+
